@@ -60,6 +60,8 @@ TABLE
 
 OUTPUT GRAPHS
 
+![Screenshot (94)](https://github.com/user-attachments/assets/dca71b75-8cdb-45ea-bdf8-9267b6853aa5)
+
 
 RESULT
 The Delta Modulation technique was successfully implemented using the trainer kit.
